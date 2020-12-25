@@ -1,0 +1,25 @@
+
+.username {
+	color: rgba(255, 255, 255, 0.89);
+}
+
+.userinfo {
+	background: rgb(6, 26, 26);
+}
+
+.servers {
+	background: rgb(19, 25, 25);
+}
+
+.channels {
+	background: rgb(22, 40, 40);
+}
+
+.messagearea {
+	background: rgb(48, 49, 54);
+}
+
+input {
+	background: rgb(0, 50, 50);
+	color: rgba(255, 255, 255);
+}
